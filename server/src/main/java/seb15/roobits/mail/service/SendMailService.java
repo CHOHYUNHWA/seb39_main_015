@@ -97,5 +97,4 @@ public class SendMailService {
         }
         return createKey;
     }
-
 }

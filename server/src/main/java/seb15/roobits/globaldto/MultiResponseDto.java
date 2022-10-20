@@ -16,3 +16,4 @@ public class MultiResponseDto<T> {
         this.roobits = roobits;
     }
 }
+
